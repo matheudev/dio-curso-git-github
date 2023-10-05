@@ -83,6 +83,7 @@ Após fazer suas alterações locais e confirmá-las com os commits apropriados,
     ```
 
 **Nota:** Se você estiver trabalhando em uma branch diferente de **'master'**, substitua **'master'** pelo nome da branch em que você está trabalhando.
+
 E é isso! Seu código agora deve estar atualizado no GitHub. Lembre-se de sempre puxar as atualizações do repositório remoto antes de fazer alterações locais para evitar conflitos.
 
 ##
