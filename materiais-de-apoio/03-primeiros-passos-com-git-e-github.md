@@ -61,8 +61,8 @@ Após fazer suas alterações locais e confirmá-las com os commits apropriados,
     ```
 Ou você pode adicionar arquivos específicos com:
     ```bash
+    $ git add nome-do-arquivo
     ```
-   $ git add nome-do-arquivo
 3. Confirme as alterações:
      ```bash
      $ git commit -m "Descrição das alterações feitas"
