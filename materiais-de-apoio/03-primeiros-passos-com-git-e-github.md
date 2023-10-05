@@ -59,7 +59,7 @@ Após fazer suas alterações locais e confirmá-las com os commits apropriados,
     ```bash
    $ git add .
     ```
-Ou você pode adicionar arquivos específicos com:
+    Ou você pode adicionar arquivos específicos com:
     ```bash
     $ git add nome-do-arquivo
     ```
